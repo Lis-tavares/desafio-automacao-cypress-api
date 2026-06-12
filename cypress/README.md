@@ -56,7 +56,7 @@ Antes de executar o projeto, é necessário possuir instalado:
 Clone o repositório:
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/Lis-tavares/desafio-automacao-cypress-api.git
 ```
 
 Acesse a pasta do projeto:
